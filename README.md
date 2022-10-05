@@ -6,7 +6,7 @@ In the matter of reforming things, as distinct from deforming them, there is one
 [Onions in the Varnish](http://www.paulgraham.com/arcll1.html):  
 In The Periodic Table, Primo Levi tells a story that happened when he was working in a varnish factory. He was a chemist, and he was fascinated by the fact that the varnish recipe included a raw onion. What could it be for? No one knew; it was just part of the recipe. So he investigated, and eventually discovered that they had started throwing the onion in years ago to test the temperature of the varnish: if it was hot enough, the onion would fry.
  
-[Bike-shedding](https://en.wikipedia.org/wiki/Law_of_triviality):  
+[Bike-shedding (Law of triviality)](https://en.wikipedia.org/wiki/Law_of_triviality):  
 "The act of wasting time on trivial details while important matters are inadequately attended is sometimes known as bikeshedding. That term originates from Parkinson's observation of a committee organized to approve plans for a nuclear power plant. As Parkinson noted, the committee devoted a disproportionate amount of time to relatively unimportant details -- such as the materials for a bicycle storage shed -- which limited the time available to focus on the design of the nuclear plant."
  
 [Yak-Shaving](https://projects.csail.mit.edu/gsb/old-archive/gsb-archive/gsb2000-02-11.html):  
